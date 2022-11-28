@@ -1,0 +1,15 @@
+C:\Studies\HomeworkCSharp\task13.3\obj\Debug\net6.0\task13.3.csproj.AssemblyReference.cache
+C:\Studies\HomeworkCSharp\task13.3\obj\Debug\net6.0\task13.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Studies\HomeworkCSharp\task13.3\obj\Debug\net6.0\task13.3.AssemblyInfoInputs.cache
+C:\Studies\HomeworkCSharp\task13.3\obj\Debug\net6.0\task13.3.AssemblyInfo.cs
+C:\Studies\HomeworkCSharp\task13.3\obj\Debug\net6.0\task13.3.csproj.CoreCompileInputs.cache
+C:\Studies\HomeworkCSharp\task13.3\bin\Debug\net6.0\task13.3.exe
+C:\Studies\HomeworkCSharp\task13.3\bin\Debug\net6.0\task13.3.deps.json
+C:\Studies\HomeworkCSharp\task13.3\bin\Debug\net6.0\task13.3.runtimeconfig.json
+C:\Studies\HomeworkCSharp\task13.3\bin\Debug\net6.0\task13.3.dll
+C:\Studies\HomeworkCSharp\task13.3\bin\Debug\net6.0\task13.3.pdb
+C:\Studies\HomeworkCSharp\task13.3\obj\Debug\net6.0\task13.3.dll
+C:\Studies\HomeworkCSharp\task13.3\obj\Debug\net6.0\refint\task13.3.dll
+C:\Studies\HomeworkCSharp\task13.3\obj\Debug\net6.0\task13.3.pdb
+C:\Studies\HomeworkCSharp\task13.3\obj\Debug\net6.0\task13.3.genruntimeconfig.cache
+C:\Studies\HomeworkCSharp\task13.3\obj\Debug\net6.0\ref\task13.3.dll
