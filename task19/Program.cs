@@ -11,4 +11,4 @@ while (n > 0)
 if (m == rev)
     Console.WriteLine("Это число является палиндромом");
 else
-    Console.WriteLine("Это число не является
+    Console.WriteLine("Это число не является палиндромом");
